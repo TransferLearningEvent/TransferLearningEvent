@@ -1,6 +1,6 @@
 Hi, I'm Jules Salzinger and I'm the founder of the Transfer Learning Event. The event embodies my commitment for the field of Deep Learning, and comprises of :
 - meetups : find our previous talks here https://www.youtube.com/channel/UCy-JlJQ5DN_nFD4AWORq0-Q/videos
-- a competition coming up soon ! More information there after March 8th : https://transfer-learning.org/competition.html
+- competitions (see below) with a new one coming up soon !
 
 I also give frequent talks and presentations to help others learn about Deep Learning. Whether you are an expert, a beginner, or just a curious person with no technical background, I'm always up for a discussion ;)  
 Here are the talks I've given in the past four years :
