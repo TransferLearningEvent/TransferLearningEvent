@@ -5,6 +5,15 @@ Hi, I'm Jules Salzinger and I'm the founder of the Transfer Learning Event. The 
 I also give frequent talks and presentations to help others learn about Deep Learning. Whether you are an expert, a beginner, or just a curious person with no technical background, I'm always up for a discussion ;)  
 Here are the talks I've given in the past four years :
 
+### Organized competitions :
+- Ceteris Paribus Face Challenge :  https://transfer-learning.org/competition.html (launch video : https://youtu.be/X7KHU0ZnmdM)
+  around 2000 euros of prize, around 100 registered participants to contribute to the field of ethics in computer vision
+- Coming soon ;)
+
+### Private teaching :
+- 34h of paid private teaching
+- ~300h of volunteer consultant work for associations
+
 ### Talks in English :
 ###### RR technical seminar (these talks and the related material are the property of Reactive Reality)
 - Introduction to Machine Learning
@@ -61,8 +70,9 @@ Here are the talks I've given in the past four years :
 - Design of Experiments in Machine Learning (given twice) (https://www.youtube.com/watch?v=OcpvkBznFSY)
 - Convolutional Neural Networks (given once)
 - Advanced CNNs (given 3 times) (https://www.youtube.com/watch?v=zfEK0JK90cQ)
-- Is drinking tea a form of regularisation ? (given three times)
+- Is drinking tea a form of regularisation ? (given 4 times)
 - Neural ODEs (given once)
+- Why do you need Config Systems ? (given once)
 
 ###### Centrale IA (Centrale Lille engineering school AI association)
 - Design of Experiments in Machine Learning (given once) (https://www.youtube.com/watch?v=hQMVOqOVvMM)
