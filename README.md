@@ -69,8 +69,8 @@ Here are the talks I've given in the past four years :
 - The Normalizing Flows (given once) (https://www.youtube.com/watch?v=VmhEkYBX10ohttps://www.youtube.com/watch?v=VmhEkYBX10o)
 - Design of Experiments in Machine Learning (given twice) (https://www.youtube.com/watch?v=OcpvkBznFSY)
 - Convolutional Neural Networks (given once)
-- Advanced CNNs (given 3 times) (https://www.youtube.com/watch?v=zfEK0JK90cQ)
-- Is drinking tea a form of regularisation ? (given 4 times)
+- Advanced CNNs (given 4 times) (https://www.youtube.com/watch?v=zfEK0JK90cQ)
+- Is drinking tea a form of regularisation ? (given 5 times)
 - Neural ODEs (given once)
 - Why do you need Config Systems ? (given once)
 
