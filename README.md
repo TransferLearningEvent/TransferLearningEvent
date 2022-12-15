@@ -79,4 +79,4 @@ Here are the talks I've given in the past four years :
 
 ### Other talks :
 - The EU's AI regulation proposal (brief overview leading to a debate)
-- AI : tomorrow's great challenge (introduction to AI adapted for highschool students)
+- AI : tomorrow's great challenge (given twice) (introduction to AI adapted for highschool students)
