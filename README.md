@@ -60,7 +60,7 @@ Here are the talks I've given in the past four years :
 - Processing Sequential Data (given 3 times) (link WIP)
 - An overview of Computer Vision (given once)
 - An overview of Natural Language Processing (given twice)
-- Design of Experiments in Machine Learning (given twice) (https://youtu.be/IZrLxCoAK4Y, https://youtu.be/iTJ1WDdXjeg)
+- Design of Experiments in Machine Learning (given 4 times) (https://youtu.be/IZrLxCoAK4Y, https://youtu.be/iTJ1WDdXjeg, https://youtu.be/2mvF0LNXAoU)
 - Neural Networks Compression for space/time efficient Deep Learning (given twice)
 
 ###### Automatants (Centrale Supélec engineering school AI association)
