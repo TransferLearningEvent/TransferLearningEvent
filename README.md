@@ -57,7 +57,7 @@ Here are the talks I've given in the past four years :
 - Advanced GANs (given once)
 - Basics of Reinforcement Learning (given 3 times)
 - The beauty of Auto-Encoders (given 4 times)
-- Processing Sequential Data (given twice)
+- Processing Sequential Data (given 3 times) (link WIP)
 - An overview of Computer Vision (given once)
 - An overview of Natural Language Processing (given twice)
 - Design of Experiments in Machine Learning (given twice) (https://youtu.be/IZrLxCoAK4Y, https://youtu.be/iTJ1WDdXjeg)
