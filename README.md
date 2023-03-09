@@ -62,6 +62,7 @@ Here are the talks I've given in the past four years :
 - An overview of Natural Language Processing (given twice)
 - Design of Experiments in Machine Learning (given 4 times) (https://youtu.be/IZrLxCoAK4Y, https://youtu.be/iTJ1WDdXjeg, https://youtu.be/2mvF0LNXAoU)
 - Neural Networks Compression for space/time efficient Deep Learning (given twice)
+- Recurrent Neural Networks (given twice) (https://youtu.be/aXfkPaqZv8o)
 
 ###### Automatants (Centrale Supélec engineering school AI association)
 - **Invited talk** : The science that tried to define what cannot be defined. (https://www.youtube.com/watch?v=eOaloGIHMDs)
