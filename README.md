@@ -8,7 +8,7 @@ Here are the talks I've given in the past four years :
 ### Organized competitions :
 - Ceteris Paribus Face Challenge :  https://transfer-learning.org/competition.html (launch video : https://youtu.be/X7KHU0ZnmdM)
   around 2000 euros of prize, around 100 registered participants to contribute to the field of ethics in computer vision
-- Coming soon ;)
+- Leaf Nothing Behind, with about 100 participants, contributed to the field of Earth monitoring with an accepted paper at BiDS 2023 (https://publications.jrc.ec.europa.eu/repository/handle/JRC135493)
 
 ### Private teaching :
 - 50h of paid private teaching
@@ -74,6 +74,7 @@ Here are the talks I've given in the past four years :
 - Is drinking tea a form of regularisation ? (given 5 times)
 - Neural ODEs (given once)
 - Why do you need Config Systems ? (given once)
+- Machine Learning projects in student missions (given once)
 
 ###### Centrale IA (Centrale Lille engineering school AI association)
 - Design of Experiments in Machine Learning (given once) (https://www.youtube.com/watch?v=hQMVOqOVvMM)
