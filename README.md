@@ -3,7 +3,7 @@ Hi, I'm Jules Salzinger and I'm the founder of the Transfer Learning Event. The 
 - competitions (see below) with a new one coming up soon !
 
 I also give frequent talks and presentations to help others learn about Deep Learning. Whether you are an expert, a beginner, or just a curious person with no technical background, I'm always up for a discussion ;)  
-Here are the talks I've given in the past four years :
+Here are the talks and events I've given or roganised in the past five years :
 
 ### Organized competitions :
 - Ceteris Paribus Face Challenge :  https://transfer-learning.org/competition.html (launch video : https://youtu.be/X7KHU0ZnmdM)
@@ -81,4 +81,6 @@ Here are the talks I've given in the past four years :
 
 ### Other talks :
 - The EU's AI regulation proposal (brief overview leading to a debate)
+- The UE's AI Act - Where are we two years later ? (second debate)
+- Ethics at Google, two guests (presentation and discussion)
 - AI : tomorrow's great challenge (given twice) (introduction to AI adapted for highschool students)
